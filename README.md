@@ -1,5 +1,5 @@
 ### Hi there my name is Korrakot Triwichian 👋
-![](https://korrakot1396.github.io/resume/static/media/animated_ashutosh.f9969294.png)
+
 
 
 
