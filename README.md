@@ -1,5 +1,5 @@
 ### Hi there my name is Korrakot Triwichian 👋
-![](https://github.com/korrakot1396/KU-SocialApp/blob/master/app/src/main/res/drawable/logo-mini.png)
+![](https://github.com/korrakot1396/korrakot1396/profile.png)
 
 
 
