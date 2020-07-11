@@ -1,5 +1,5 @@
 ### Hi there my name is Korrakot Triwichian 👋
-![](https://github.com/korrakot1396/korrakot1396/main/image/IMG_6624.png)
+![](https://korrakot1396.github.io/resume/static/media/korrakot.fc9f48f7.svg)
 
 
 
