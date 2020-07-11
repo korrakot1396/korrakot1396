@@ -1,4 +1,4 @@
-### Hi there My name is Korrakot Triwichian 👋
+### Hi there my name is Korrakot Triwichian 👋
 
 
 
