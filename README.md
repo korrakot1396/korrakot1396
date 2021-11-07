@@ -1,4 +1,4 @@
-![Korrakot Triwichian Banner Image](./banner_github.png)
+![](https://github.com/korrakot1396/korrakot1396/blob/master/image/banner-github.png)
 
 ### Hi there my name is Korrakot Triwichian 👋
 
