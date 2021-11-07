@@ -1,3 +1,5 @@
+![Korrakot Triwichian Banner Image](./banner_github.png)
+
 ### Hi there my name is Korrakot Triwichian 👋
 
 Here are some ideas to get you started:
